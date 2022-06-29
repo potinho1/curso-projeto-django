@@ -32,7 +32,7 @@
 
         <span class="recipe-author-item">
             <i class="fas fa-calendar-alt"></i>
-            {{ recipe.created_at|date:"d/m/Y" }} às {{ recipe.created_at|date:"" }}
+            {{ recipe.created_at|date:"d/m/Y" }} {{ recipe.created_at|date:"" }}
         </span>
 
         {% if recipe.category is not None %}
