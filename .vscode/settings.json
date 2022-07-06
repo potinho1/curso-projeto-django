@@ -68,5 +68,6 @@
         "explorer.confirmDragAndDrop": false,
         "liveServer.settings.donotShowInfoMsg": true,
         "workbench.startupEditor": "none",
-        "terminal.integrated.enableMultiLinePasteWarning": false
+        "terminal.integrated.enableMultiLinePasteWarning": false,
+        "python.pythonPath": "venv\\Scripts\\python.exe"
 }
