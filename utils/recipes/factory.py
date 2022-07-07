@@ -1,6 +1,5 @@
 # from inspect import signature
 from random import randint
-from string import digits
 
 from faker import Faker
 
